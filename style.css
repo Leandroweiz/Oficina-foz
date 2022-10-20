@@ -50,3 +50,5 @@ h2 {text-align: center;}
 
 div {vertical-align: top;}
 div {align-items: start;}
+section {display: grid;
+  grid-template-column:25% 25% 25% 25%;}
