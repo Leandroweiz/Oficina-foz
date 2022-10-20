@@ -25,11 +25,6 @@ p {text-align: center;}
 
 em strong {color: #FF0000;}
 
-.rio{background: #CCCCCC;	padding: 30px;
-border-color:#000000 ;
-border-style: solid ;
-border-width: 4px ;}
-
 .itens {font-style: italic
   border-color:#000000 ;
   border-style: solid ;
@@ -39,11 +34,6 @@ border-width: 4px ;}
   border-color:#000000 ;
   border-style: solid ;
   border-width: 5px ;}
-
-.imagemdeut {width: 10%;
-  border-color:#000000 ;
-  border-style: solid ;
-  border-width: 4px ;}
 
 h2 {text-align: center
 border-color:#000000 ;
@@ -56,4 +46,6 @@ ul {display: inline-block; vertical-align: top; width: 20%; margin-right: 15%;}
   border-style: solid ;
   border-width: 5px ;}
 
-h2 {text-align: center}
+h2 {text-align: center;}
+
+div { vertical-align: top;}
